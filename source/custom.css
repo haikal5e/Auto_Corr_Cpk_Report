@@ -1,0 +1,5 @@
+/* Example to reduce margins */
+.document {
+    margin: 0;
+    padding: 0;
+}
